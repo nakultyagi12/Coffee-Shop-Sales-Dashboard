@@ -1,5 +1,6 @@
 # Coffee-Shop-Sales-Dashboard
-![Dashboard Preview](final Dashboard.png)
+![Dashboard Preview](final%20Dashboard.png)
+
 
 
 ## 📌 Project Overview
